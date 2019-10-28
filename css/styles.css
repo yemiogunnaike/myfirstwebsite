@@ -1,0 +1,38 @@
+body {
+  background-color: #d7f2c4;
+
+}
+
+h1 {
+  color: red;
+}
+
+p {
+  color: green;
+}
+
+h2 {
+  color: red
+}
+
+div#main {
+  background-color: white;
+  width: 75% ;
+}
+
+div#title {
+  text-align: center;
+  font-size: 32px;
+}
+
+div#container {
+  background-color: white
+}
+
+div.section {
+  color: white;
+  background-color: : black;
+  font-size: 32px;
+  width:33.333%
+  float: left;
+}
